@@ -4,7 +4,7 @@ const publicRoutes = {
   // ARTICLES: "/articles",
   PRODUCTS: "/products",
   MYPRODUCTS: "/misproducts/",
-  REPRODUCTS: "/regproducts/",
+  // REPRODUCTS: "/regproducts/",
   ABOUT: "/about"
 
 
